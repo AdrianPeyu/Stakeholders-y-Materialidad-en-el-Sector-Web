@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empresa_sostenible nombre="Consultora Web Sostenible">
+    
+    <stakeholders>
+        
+        <stakeholder nombre="Clientes" importancia="alta">
+            Empresas que contratan servicios web y esperan eficiencia, seguridad y resultados.
+        </stakeholder>
+        
+        <stakeholder nombre="Usuarios Finales" importancia="alta">
+            Personas que utilizan las aplicaciones web y requieren accesibilidad y privacidad.
+        </stakeholder>
+        
+        <stakeholder nombre="Equipo de Desarrollo" importancia="media">
+            Profesionales que construyen el software y aplican buenas prácticas sostenibles.
+        </stakeholder>
+        
+    </stakeholders>
+    
+    <temas_materiales>
+        
+        <tema_material nombre="Eficiencia energética del código" impacto="Ambiental">
+            Optimización del código para reducir consumo energético y huella de carbono en servidores.
+        </tema_material>
+        
+        <tema_material nombre="Accesibilidad universal" impacto="Social">
+            Desarrollo de aplicaciones accesibles para personas con diversidad funcional (WCAG).
+        </tema_material>
+        
+        <tema_material nombre="Privacidad de datos" impacto="Gobernanza">
+            Protección de datos personales mediante cumplimiento de normativas como GDPR.
+        </tema_material>
+        
+    </temas_materiales>
+    
+</empresa_sostenible>
