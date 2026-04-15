@@ -37,7 +37,7 @@ Protección de la información personal conforme a normativas como *GDPR*.
 
 ---
 
-## Fuentes (Formato IEEE)
+## Fuentes
 
 [1] M. Dayarathna, Y. Wen y R. Fan, "Data Center Energy Consumption Modeling: A Survey", *IEEE Communications Surveys & Tutorials*, 2016.
 
