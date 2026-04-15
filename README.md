@@ -49,15 +49,5 @@ Protección de la información personal conforme a normativas como *GDPR*.
 
 ---
 
-## Control de versiones
-
-Ejemplo de commits:
-
-- `docs: añadido README con análisis ASG`
-- `feat: creación de estructura XML de materialidad`
-- `refactor: mejora de indentación y comentarios en XML`
-
----
-
 ## Conclusión
 La sostenibilidad en el desarrollo web implica equilibrar el impacto ambiental, social y de gobernanza. Este ejercicio demuestra cómo estructurar estos elementos de forma clara y profesional.
